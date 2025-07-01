@@ -12,7 +12,7 @@ It also uses **Git** for version control and follows a modular Python project st
 - Based on:
   - 🌦️ Weather: hot, mild, cold
   - 🎉 Occasion: casual, formal, party
-  - 🚻 Gender: male, female, unisex
+  - 🚻 Gender: male, female
 - Clean and modular code
 - Easy to extend or integrate with a weather API or machine learning
 
