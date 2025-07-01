@@ -1,128 +1,257 @@
-[
+
+  [
   {
-    "id": 1,
+    "id": 301,
+    "weather": "hot",
+    "occasion": "casual",
+    "gender": "male",
+    "items": ["sleeveless tee", "cotton shorts", "sandals"]
+  },
+  {
+    "id": 302,
+    "weather": "hot",
+    "occasion": "casual",
+    "gender": "female",
+    "items": ["tank top", "flowy skirt", "flip-flops"]
+  },
+  {
+    "id": 303,
+    "weather": "hot",
+    "occasion": "formal",
+    "gender": "male",
+    "items": ["linen shirt", "light trousers", "loafers"]
+  },
+  {
+    "id": 304,
+    "weather": "hot",
+    "occasion": "formal",
+    "gender": "female",
+    "items": ["sleeveless blouse", "linen pants", "low heels"]
+  },
+  {
+    "id": 305,
+    "weather": "hot",
+    "occasion": "party",
+    "gender": "male",
+    "items": ["short-sleeve printed shirt", "chinos", "loafers"]
+  },
+  {
+    "id": 306,
+    "weather": "hot",
+    "occasion": "party",
+    "gender": "female",
+    "items": ["off-shoulder dress", "strappy heels", "bracelet"]
+  },
+  {
+    "id": 307,
+    "weather": "mild",
+    "occasion": "casual",
+    "gender": "male",
+    "items": ["polo shirt", "jeans", "sneakers"]
+  },
+  {
+    "id": 308,
+    "weather": "mild",
+    "occasion": "casual",
+    "gender": "female",
+    "items": ["t-shirt", "high-waisted jeans", "sneakers"]
+  },
+  {
+    "id": 309,
+    "weather": "mild",
+    "occasion": "formal",
+    "gender": "male",
+    "items": ["button-down shirt", "blazer", "formal trousers", "oxford shoes"]
+  },
+  {
+    "id": 310,
+    "weather": "mild",
+    "occasion": "formal",
+    "gender": "female",
+    "items": ["formal blouse", "blazer", "slim trousers", "closed-toe shoes"]
+  },
+  {
+    "id": 311,
+    "weather": "mild",
+    "occasion": "party",
+    "gender": "male",
+    "items": ["graphic tee", "jacket", "ripped jeans", "boots"]
+  },
+  {
+    "id": 312,
+    "weather": "mild",
+    "occasion": "party",
+    "gender": "female",
+    "items": ["wrap dress", "cardigan", "ankle boots"]
+  },
+  {
+    "id": 313,
     "weather": "cold",
     "occasion": "casual",
     "gender": "male",
     "items": ["hoodie", "jeans", "sneakers"]
   },
   {
-    "id": 2,
-    "weather": "hot",
-    "occasion": "casual",
-    "gender": "female",
-    "items": ["tank top", "shorts", "sandals"]
-  },
-  {
-    "id": 3,
-    "weather": "mild",
-    "occasion": "formal",
-    "gender": "male",
-    "items": ["blazer", "trousers", "leather shoes"]
-  },
-  {
-    "id": 4,
-    "weather": "cold",
-    "occasion": "formal",
-    "gender": "female",
-    "items": ["coat", "dress", "heels"]
-  },
-  {
-    "id": 5,
-    "weather": "hot",
-    "occasion": "party",
-    "gender": "male",
-    "items": ["printed shirt", "chinos", "loafers"]
-  },
-  {
-    "id": 6,
-    "weather": "mild",
-    "occasion": "party",
-    "gender": "female",
-    "items": ["jumpsuit", "ankle boots", "accessories"]
-  },
-  {
-    "id": 7,
+    "id": 314,
     "weather": "cold",
     "occasion": "casual",
     "gender": "female",
     "items": ["sweater", "leggings", "boots"]
   },
   {
-    "id": 8,
-    "weather": "hot",
-    "occasion": "formal",
-    "gender": "female",
-    "items": ["linen dress", "low heels", "minimal jewelry"]
-  },
-  {
-    "id": 9,
-    "weather": "mild",
-    "occasion": "casual",
-    "gender": "male",
-    "items": ["polo shirt", "denim jeans", "trainers"]
-  },
-  {
-    "id": 10,
-    "weather": "cold",
-    "occasion": "party",
-    "gender": "female",
-    "items": ["fur jacket", "sequined top", "leather pants"]
-  },
-  {
-    "id": 11,
-    "weather": "hot",
-    "occasion": "casual",
-    "gender": "male",
-    "items": ["vest", "shorts", "flip-flops"]
-  },
-  {
-    "id": 12,
-    "weather": "mild",
-    "occasion": "formal",
-    "gender": "female",
-    "items": ["blouse", "pencil skirt", "closed-toe shoes"]
-  },
-  {
-    "id": 13,
-    "weather": "mild",
-    "occasion": "casual",
-    "gender": "female",
-    "items": ["t-shirt", "mom jeans", "white sneakers"]
-  },
-  {
-    "id": 14,
-    "weather": "hot",
-    "occasion": "party",
-    "gender": "female",
-    "items": ["crop top", "mini skirt", "heels"]
-  },
-  {
-    "id": 15,
+    "id": 315,
     "weather": "cold",
     "occasion": "formal",
     "gender": "male",
-    "items": ["overcoat", "suit", "boots"]
+    "items": ["overcoat", "shirt", "tie", "wool trousers", "formal shoes"]
   },
   {
-    "id": 16,
-    "weather": "mild",
-    "occasion": "party",
-    "gender": "unisex",
-    "items": ["denim jacket", "graphic tee", "cargo pants"]
+    "id": 316,
+    "weather": "cold",
+    "occasion": "formal",
+    "gender": "female",
+    "items": ["long coat", "knit dress", "tights", "heeled boots"]
   },
   {
-    "id": 17,
-    "weather": "hot",
-    "occasion": "casual",
-    "gender": "unisex",
-    "items": ["loose t-shirt", "cotton shorts", "slides"]
-  },
-  {
-    "id": 18,
+    "id": 317,
     "weather": "cold",
     "occasion": "party",
-    "gender": "unisex",
-    "items": ["turtleneck", "oversized coat", "chunky boots"]
+    "gender": "male",
+    "items": ["turtleneck", "leather jacket", "black jeans", "chelsea boots"]
+  },
+  {
+    "id": 318,
+    "weather": "cold",
+    "occasion": "party",
+    "gender": "female",
+    "items": ["sequin top", "blazer", "faux leather pants", "heels"]
+  },
+
+  
+  {
+    "id": 319,
+    "weather": "hot",
+    "occasion": "casual",
+    "gender": "male",
+    "items": ["vest", "light joggers", "canvas shoes"]
+  },
+  {
+    "id": 320,
+    "weather": "hot",
+    "occasion": "casual",
+    "gender": "female",
+    "items": ["crop top", "denim shorts", "slippers"]
+  },
+  {
+    "id": 321,
+    "weather": "mild",
+    "occasion": "casual",
+    "gender": "male",
+    "items": ["full-sleeve shirt", "cargo pants", "loafers"]
+  },
+  {
+    "id": 322,
+    "weather": "mild",
+    "occasion": "casual",
+    "gender": "female",
+    "items": ["long sleeve tee", "wide-leg pants", "trainers"]
+  },
+  {
+    "id": 323,
+    "weather": "cold",
+    "occasion": "casual",
+    "gender": "male",
+    "items": ["sweater", "beanie", "corduroy pants", "boots"]
+  },
+  {
+    "id": 324,
+    "weather": "cold",
+    "occasion": "casual",
+    "gender": "female",
+    "items": ["puffer jacket", "thermal leggings", "snow boots"]
+  },
+  {
+    "id": 325,
+    "weather": "hot",
+    "occasion": "formal",
+    "gender": "male",
+    "items": ["short sleeve shirt", "slim pants", "derby shoes"]
+  },
+  {
+    "id": 326,
+    "weather": "hot",
+    "occasion": "formal",
+    "gender": "female",
+    "items": ["sleeveless kurti", "palazzos", "flats"]
+  },
+  {
+    "id": 327,
+    "weather": "mild",
+    "occasion": "formal",
+    "gender": "male",
+    "items": ["coat", "dress shirt", "chinos", "moccasins"]
+  },
+  {
+    "id": 328,
+    "weather": "mild",
+    "occasion": "formal",
+    "gender": "female",
+    "items": ["peplum top", "formal skirt", "ballet flats"]
+  },
+  {
+    "id": 329,
+    "weather": "cold",
+    "occasion": "formal",
+    "gender": "male",
+    "items": ["suit", "scarf", "leather gloves", "oxford shoes"]
+  },
+  {
+    "id": 330,
+    "weather": "cold",
+    "occasion": "formal",
+    "gender": "female",
+    "items": ["wool dress", "trench coat", "scarf", "heels"]
+  },
+  {
+    "id": 331,
+    "weather": "hot",
+    "occasion": "party",
+    "gender": "male",
+    "items": ["linen blazer", "shorts", "boat shoes"]
+  },
+  {
+    "id": 332,
+    "weather": "hot",
+    "occasion": "party",
+    "gender": "female",
+    "items": ["bodycon dress", "ankle strap heels", "earrings"]
+  },
+  {
+    "id": 333,
+    "weather": "mild",
+    "occasion": "party",
+    "gender": "male",
+    "items": ["open flannel shirt", "white tee", "jeans", "sneakers"]
+  },
+  {
+    "id": 334,
+    "weather": "mild",
+    "occasion": "party",
+    "gender": "female",
+    "items": ["glitter top", "slim jeans", "heeled sandals"]
+  },
+  {
+    "id": 335,
+    "weather": "cold",
+    "occasion": "party",
+    "gender": "male",
+    "items": ["velvet blazer", "turtleneck", "slacks", "loafers"]
+  },
+  {
+    "id": 336,
+    "weather": "cold",
+    "occasion": "party",
+    "gender": "female",
+    "items": ["long-sleeve dress", "coat", "knee-high boots"]
   }
 ]
