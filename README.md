@@ -16,9 +16,7 @@ It also uses **Git** for version control and follows a modular Python project st
 - Clean and modular code
 - Easy to extend or integrate with a weather API or machine learning
 
----
 
-## 🗂️ Project Structure
 
 
 ---
