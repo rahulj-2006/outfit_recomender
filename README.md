@@ -26,7 +26,7 @@ It also uses **Git** for version control and follows a modular Python project st
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/rahulj-2006/outfit-recommender.git
+git clone https://github.com/rahulj-2006/outfit_recomender.git
 cd outfit-recommender
 
 
