@@ -28,5 +28,6 @@ It also uses **Git** for version control and follows a modular Python project st
 ```bash
 git clone https://github.com/rahulj-2006/outfit_recomender.git
 cd outfit_recomender
+python main.py
 
 
